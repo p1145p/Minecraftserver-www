@@ -58,11 +58,11 @@ buildOnce(function () {
         title: "朋服",
         urls: [
           {
-            url: "https://mc.mchooray.xyz\/",
+            url: "https://mc.peng520.xyz\/",
             title: "朋服主页",
           },
           {
-            url: "https://status.mchooray.xyz/",
+            url: "https://status.peng520.xyz/",
             title: "状态监控",
           },
         ],
